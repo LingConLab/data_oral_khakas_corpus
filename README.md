@@ -28,7 +28,9 @@ Vera Maltseva, Elena Sokur. Spoken corpus of the dialects of Khakas. Moscow: Ins
 ```
 
 You may contact with questions about the Corpus data or leave an issue in this repository:
-Vera Maltseva: malt.wh@gmail.com
+
+malt.wh@gmail.com (Vera Maltseva)
 
 Or with questions about the search platform or leave an issue in [its repository](https://github.com/LingConLab/Khakas_corpus):
-Elena Sokur: elena.o.sokur@gmail.com
+
+elena.o.sokur@gmail.com (Elena Sokur)
