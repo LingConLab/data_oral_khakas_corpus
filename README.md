@@ -1,7 +1,10 @@
 # The Spoken corpus of the dialects of Khakas Data Repository
 
-This repository is the place where the data from the Spoken corpus of the dialects of Khakas is curated. This repository also provides an alternative way to access corpus data locally. The data is stored in `data_oral_khakas_corpus.csv` with 85107 rows and 12 columns:
+This repository is the place where the data from the [Spoken corpus of the dialects of Khakas](http://lingconlab.ru/spoken_khakas/) is curated. This repository also provides an alternative way to access corpus data locally. The data is stored in `data_oral_khakas_corpus.csv` with 85107 rows and 14 columns:
 
+* `filename`
+* `time_start`
+* `time_end`
 * `filename`
 * `speaker`
 * `recorded`
