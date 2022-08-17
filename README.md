@@ -24,7 +24,7 @@ This repository is the place where the data from the [Spoken corpus of the diale
 
 The Spoken corpus of the dialects of Khakas contains transcribed annotated texts, synchronized with the sound. The texts were recorded during the 21st century with speakers born in 1916-1985 in different expeditions from Moscow to the Republic of Khakassia. All texts are translated to Russian. Texts were analyzed using the automatic parser, and then edited and synchronized with the sound with the help of the ELAN software.
 
-## How to cite the corpus
+## How to cite the corpus and the data
 
 If you use data from the Spoken corpus of the dialects of Khakas in your research, please cite as follows:
 
@@ -36,6 +36,6 @@ You may contact with questions about the Corpus data or leave an issue in this r
 
 malt.wh@gmail.com (Vera Maltseva)
 
-Or with questions about the search platform or leave an issue in [its repository](https://github.com/LingConLab/Khakas_corpus):
+You may contact with questions about the search platform or leave an issue in [its own repository](https://github.com/LingConLab/Khakas_corpus):
 
 elena.o.sokur@gmail.com (Elena Sokur)
