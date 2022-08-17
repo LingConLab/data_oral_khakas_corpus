@@ -1,5 +1,7 @@
 # The Spoken corpus of the dialects of Khakas Data Repository
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7001480.svg)](https://doi.org/10.5281/zenodo.7001480)
+
 This repository is the place where the data from the [Spoken corpus of the dialects of Khakas](http://lingconlab.ru/spoken_khakas/) is curated. This repository also provides an alternative way to access corpus data locally. The data is stored in `data_oral_khakas_corpus.csv` with 85107 rows and 14 columns:
 
 * `filename`
